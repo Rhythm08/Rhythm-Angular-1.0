@@ -3,6 +3,9 @@
 
 <img src="src\assets\images\Login form.jpeg">
 
+# Data insertion and Deletion can be done
+
+<img src = "src/assets/images/form_delete.jpeg">
 
 
 
