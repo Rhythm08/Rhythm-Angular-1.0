@@ -8,6 +8,15 @@
 <img src = "src/assets/images/form_delete.jpeg">
 
 
+# Reactive form with output
+
+<img src ="src/assets/images/Reactive_form.png">
+
+# Template form with output
+
+<img src="src/assets/images/template_form.png">
+
+
 
 
 
